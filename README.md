@@ -36,7 +36,7 @@ $ python indo.py
 
 ``` bash
 
-$ cd indo
+$ cd indo-crack 
 
 $ git pull
 
