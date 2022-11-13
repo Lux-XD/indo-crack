@@ -26,7 +26,7 @@ $ pip install rich
 
 $ git clone https://github.com/Lux-XD/indo-crack.git
 
-$ cd indo
+$ cd indo-crack 
 
 $ python indo.py
 
